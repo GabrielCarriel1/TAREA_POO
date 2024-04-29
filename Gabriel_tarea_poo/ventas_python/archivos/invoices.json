@@ -1,0 +1,34 @@
+[
+    {
+        "factura": 1,
+        "Fecha": "2024-04-28",
+        "cliente": "eduardo javier quinteros pacheco",
+        "subtotal": 500.0,
+        "descuento": 50.0,
+        "iva": 54.0,
+        "total": 504.0,
+        "detalle": [
+            {
+                "poducto": "televisor",
+                "precio": 500.0,
+                "cantidad": 1
+            }
+        ]
+    },
+    {
+        "factura": 2,
+        "Fecha": "2024-04-28",
+        "cliente": "daniela lesly rumazo chica",
+        "subtotal": 1750.0,
+        "descuento": 175.0,
+        "iva": 189.0,
+        "total": 1764.0,
+        "detalle": [
+            {
+                "poducto": "muebles",
+                "precio": 350.0,
+                "cantidad": 5
+            }
+        ]
+    }
+]
